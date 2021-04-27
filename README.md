@@ -2,8 +2,10 @@
 UFO MODULE11-UFO
 Overview:
 It has been long time contention that UFO (Unidentified Flying Objects) have been seen in various regions of the USA. This Module is about identifying sightings of UFO in various parts of the country based on news reports and filtering the information on date, city, state and country.
+
 Results:
- 
+ Image
+
 
 As you noticed the picture was taken on January 10, 2010 and the phenomena lasted 5 minutes in Uxbridge in Massachusetts. Ufologists have believed that there have been UFOs and cite many appearances of them. In this script, if you change the date, a new sighting will appear.
 The script is in Visual Studio Code and can be run by clicking index.html  on the LHS panel and then with a live server. The search variables are date, city, state country and shape. HTML files can be opened by double clicking on them in the Windows environment. So there are several ways to open html files.
